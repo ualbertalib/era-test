@@ -7,7 +7,7 @@ Background
 ----------
 This package performs tests to validate and verify the ERA project.
 
-Currently just a placeholder for tests -- will run a Selenese JUnit test to check Edmonton weather.  Requires that a Selenium Grid with at least one node be available at the ${grid.host}:${grid.port} property. This should be available in a file called era.properties.
+Currently just a placeholder for tests -- will run a Selenese JUnit test to check Edmonton weather.  Requires that a Selenium Grid with at least one node be available at the ${grid.host}:${grid.port} property. This should be available in a file called era.properties. See the selenium-grid/README.md for more information about starting the hub and node(s).
 
 Requirements
 ------------
